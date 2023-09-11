@@ -10,5 +10,5 @@ Unity엔진을 사용하여 Dome Keeper 라는 게임을 모작한 2D슈팅게�
 * 플랫폼 : PC
 ----------------------------------------------
 # 영상 및 기술서 
-* 동영상: 
-* 기술서: 
+* 동영상: https://www.youtube.com/watch?v=tq3WYTvaNUU
+* 기술서: https://docs.google.com/document/d/1SM1zlogB0yfq4wR1y-XWtMav4VlAreDWNuMWQ1iiHR4/edit
